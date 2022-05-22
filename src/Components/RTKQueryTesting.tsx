@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-import { ReactSortable } from "react-sortablejs";
+import { useState } from "react";
 import {
   useGetUsersQuery,
   useAddUserMutation,
